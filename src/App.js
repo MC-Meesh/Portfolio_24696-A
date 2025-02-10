@@ -14,7 +14,7 @@ export default function App() {
       </nav>
 
       <header className="text-center py-10">
-        <h1 className="text-4xl font-bold">MC-Meesh Engineering Portfolio</h1>
+        <h1 className="text-4xl font-bold">Chase Allen Engineering Portfolio</h1>
         <p className="text-lg text-gray-600">Showcasing AI, ML, and Engineering Projects</p>
       </header>
 
@@ -44,9 +44,9 @@ export default function App() {
         <h2 className="text-2xl font-semibold">Contact</h2>
         <p className="mt-4">Feel free to reach out for collaborations or opportunities:</p>
         <ul className="mt-2">
-          <li>Email: <a href="mailto:chaseallenskis@gmail.com" className="text-blue-600">chaseallenskis@gmail.com</a></li>
+          <li>Email: <a href="mailto:temp@gmail.com" className="text-blue-600">placedholder</a></li>
           <li>GitHub: <a href="https://github.com/MC-Meesh" className="text-blue-600">MC-Meesh</a></li>
-          <li>Website: <a href="https://mc-allen.tech" className="text-blue-600">mc-allen.tech</a></li>
+          <li>Website: <a href="https://github.com/MC-Meesh" className="text-blue-600">placeholder</a></li>
         </ul>
       </section>
 
